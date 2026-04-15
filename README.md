@@ -7,3 +7,5 @@ Implemented algorithms:
 - [Linear Regression](LinearRegression.ipynb)
 
 - [Logistic Regression](Logistic_Regression.ipynb)
+
+- [K-means](K_means.py)
